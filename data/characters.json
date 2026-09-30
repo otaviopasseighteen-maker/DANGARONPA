@@ -1,0 +1,8 @@
+[
+  {"id":"makoto-naegi","name":"Makoto Naegi","game":"Trigger Happy Havoc","talent":"Ultimate Lucky Student","description":"The protagonist of the first mainline game."},
+  {"id":"kyoko-kirigiri","name":"Kyoko Kirigiri","game":"Trigger Happy Havoc","talent":"Ultimate Detective","description":"A reserved student who investigates the mysteries surrounding Hope's Peak Academy."},
+  {"id":"hajime-hinata","name":"Hajime Hinata","game":"Goodbye Despair","talent":"Unknown at the beginning","description":"The protagonist of Danganronpa 2, who awakens on Jabberwock Island with no clear memory of his talent."},
+  {"id":"komaru-naegi","name":"Komaru Naegi","game":"Ultra Despair Girls","talent":"None / Civilian","description":"Makoto Naegi's younger sister and the protagonist of Ultra Despair Girls."},
+  {"id":"toko-fukawa","name":"Toko Fukawa","game":"Ultra Despair Girls","talent":"Ultimate Writing Prodigy","description":"A survivor of the first killing game who accompanies Komaru through Towa City."},
+  {"id":"shuichi-saihara","name":"Shuichi Saihara","game":"V3: Killing Harmony","talent":"Ultimate Detective","description":"A detective-in-training who becomes one of the central figures of the V3 killing game."}
+]
