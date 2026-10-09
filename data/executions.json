@@ -25,14 +25,9 @@
         "context": "Punição após um julgamento posterior."
       },
       {
-        "name": "Excavator Destroyer",
-        "character": "Alter Ego",
-        "context": "Programa de inteligência artificial é destruído por Monokuma."
-      },
-      {
         "name": "After School Lesson",
-        "character": "Makoto Naegi / Junko Enoshima",
-        "context": "Execução final apresentada no desfecho; a sequência e o resultado envolvem uma reviravolta narrativa."
+        "character": "Junko Enoshima",
+        "context": "Execução final após a revelação de sua identidade e de seu papel no jogo."
       }
     ]
   },
@@ -55,16 +50,6 @@
         "name": "The Ultimate Punishment",
         "character": "Mikan Tsumiki",
         "context": "Execução associada ao terceiro julgamento."
-      },
-      {
-        "name": "Please Insert Coin",
-        "character": "Ibuki Mioda e Hiyoko Saionji",
-        "context": "As mortes deste capítulo são reveladas na investigação; não são duas execuções tradicionais."
-      },
-      {
-        "name": "The Final Dead Room / Russian Roulette",
-        "character": "Nekomaru Nidai (contexto de sobrevivência)",
-        "context": "Desafio mortal ligado à investigação e à sobrevivência; não é uma execução padrão."
       },
       {
         "name": "House of the Demon",
@@ -131,9 +116,9 @@
         "context": "Execução final interrompida pelos acontecimentos da história."
       },
       {
-        "name": "Ultimate Annihilation",
+        "name": "Desfecho final",
         "character": "Tsumugi Shirogane, Monokuma e K1-B0",
-        "context": "Sequência final que destrói a academia e conclui o conflito."
+        "context": "Sequência de encerramento da história, catalogada separadamente das execuções individuais."
       }
     ]
   }
