@@ -10,31 +10,37 @@
 <body>
   <header class="site-header">
     <a class="brand" href="index.html">DANGANRONPA <span>ARCHIVE</span></a>
-    <nav>
+    <nav aria-label="Main navigation">
       <a href="pages/games.html">Games</a>
       <a href="pages/characters.html">Characters</a>
       <a href="pages/about.html">About</a>
     </nav>
   </header>
   <main class="home">
-    <section class="hero">
-      <p class="eyebrow">THE ULTIMATE ARCHIVE</p>
-      <h1>DANGANRONPA</h1>
-      <p>A structured archive for the main Danganronpa games, their characters and their stories.</p>
+    <section class="hero" id="game-stage" aria-live="polite">
+      <p class="eyebrow" id="stage-eyebrow">THE ULTIMATE ARCHIVE</p>
+      <h1 id="stage-title">DANGANRONPA</h1>
+      <p id="stage-description">Choose a game. Each one has its own transition, inspired by the series' dramatic execution sequences.</p>
       <div class="actions">
-        <a class="button" href="pages/games.html">Explore Games</a>
-        <a class="button button-secondary" href="pages/characters.html">View Characters</a>
+        <a class="button" href="#game-selector">Choose a game</a>
+        <a class="button button-secondary" href="pages/games.html">Explore database</a>
       </div>
+      <p class="stage-hint" id="stage-hint">Current selection: Trigger Happy Havoc</p>
     </section>
-    <section class="section">
+    <section class="section" id="game-selector">
       <div class="section-heading">
-        <p class="eyebrow">CURRENT DATABASE</p>
-        <h2>Games</h2>
+        <p class="eyebrow">SELECT YOUR DESTINATION</p>
+        <h2>Choose a game</h2>
+        <p class="section-intro">Switch between titles in any order. The transition is themed after the game you're leaving.</p>
       </div>
       <div id="game-list" class="card-grid"></div>
     </section>
   </main>
-  <footer>DANGANRONPA ARCHIVE · Structure first, visual identity later.</footer>
+  <div class="transition-overlay" id="transition-overlay" aria-hidden="true">
+    <div class="transition-stamp" id="transition-stamp">EXECUTION START</div>
+    <div class="transition-fragments" aria-hidden="true"></div>
+  </div>
+  <footer>DANGANRONPA ARCHIVE · Built for exploration, with transitions that respect reduced-motion settings.</footer>
   <script src="assets/js/app.js"></script>
 </body>
 </html>
