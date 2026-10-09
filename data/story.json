@@ -1,0 +1,106 @@
+[
+  {
+    "id": "thh",
+    "title": "Trigger Happy Havoc",
+    "subtitle": "Hope's Peak Academy",
+    "spoilerWarning": "This section discusses the premise and setting. Later-case details may contain spoilers.",
+    "premise": "Makoto Naegi arrives at the prestigious Hope's Peak Academy after being selected as the Ultimate Lucky Student. He and his classmates soon discover they are trapped inside the school.",
+    "chapters": [
+      {
+        "title": "The academy lockdown",
+        "summary": "The students learn that leaving the school is not an option and that Monokuma has established a deadly set of rules."
+      },
+      {
+        "title": "Class trials",
+        "summary": "When a murder occurs, the students investigate evidence and participate in class trials to identify the culprit."
+      },
+      {
+        "title": "The larger mystery",
+        "summary": "Clues scattered through the academy point toward a mystery far larger than the students first understood."
+      }
+    ],
+    "locations": [
+      "Hope's Peak Academy",
+      "The gym and trial room",
+      "The school investigation areas"
+    ]
+  },
+  {
+    "id": "gd",
+    "title": "Goodbye Despair",
+    "subtitle": "Jabberwock Island",
+    "spoilerWarning": "Character motives and later revelations are spoiler-sensitive.",
+    "premise": "Hajime Hinata and his classmates arrive on a tropical island for what seems to be a school trip. Their peaceful outing becomes another killing game.",
+    "chapters": [
+      {
+        "title": "A trip turns dangerous",
+        "summary": "The students explore the island while a new set of rules and threats pushes them toward distrust."
+      },
+      {
+        "title": "Island investigations",
+        "summary": "Each incident leads to an investigation and a class trial, with clues hidden throughout the island."
+      },
+      {
+        "title": "The truth behind the trip",
+        "summary": "The island's strange circumstances and the students' memories become central questions."
+      }
+    ],
+    "locations": [
+      "Jabberwock Island",
+      "The central island areas",
+      "The trial room"
+    ]
+  },
+  {
+    "id": "udg",
+    "title": "Ultra Despair Girls",
+    "subtitle": "Towa City",
+    "spoilerWarning": "Includes broad plot information about the Warriors of Hope; later story revelations are not detailed here.",
+    "premise": "Komaru Naegi escapes captivity in Towa City and meets Toko Fukawa. Together they try to survive a city where Monokumas threaten the remaining adults.",
+    "chapters": [
+      {
+        "title": "Escape and alliance",
+        "summary": "Komaru and Toko form an uneasy partnership and learn how dangerous the city has become."
+      },
+      {
+        "title": "The Warriors of Hope",
+        "summary": "The pair encounters a group of children who control Monokumas and pursue their own vision of a new world."
+      },
+      {
+        "title": "Across Towa City",
+        "summary": "The journey exposes the suffering, manipulation and conflicts behind the city's uprising."
+      }
+    ],
+    "locations": [
+      "Towa City streets",
+      "Abandoned buildings and shelters",
+      "The Warriors of Hope's territory"
+    ]
+  },
+  {
+    "id": "v3",
+    "title": "Killing Harmony",
+    "subtitle": "The Ultimate Academy for Gifted Juveniles",
+    "spoilerWarning": "V3 is especially spoiler-sensitive. This summary avoids explaining its central late-game twists.",
+    "premise": "Shuichi Saihara, Kaede Akamatsu and a new group of Ultimate students awaken inside a strange academy and are forced into a new killing game.",
+    "chapters": [
+      {
+        "title": "A new group",
+        "summary": "The students attempt to understand their surroundings and find a way to escape the academy."
+      },
+      {
+        "title": "Cases and class trials",
+        "summary": "Investigations challenge the students' trust as conflicting testimony and hidden motives come to light."
+      },
+      {
+        "title": "Questions about reality",
+        "summary": "The game's mysteries expand beyond individual cases, challenging what the students believe about their situation."
+      }
+    ],
+    "locations": [
+      "Ultimate Academy for Gifted Juveniles",
+      "The academy's labs and corridors",
+      "The trial grounds"
+    ]
+  }
+]
