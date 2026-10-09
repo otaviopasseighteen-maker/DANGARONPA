@@ -34,13 +34,17 @@ function renderGames(games){
       const release=document.createElement("p");
       release.innerHTML="<strong>Release:</strong> ";
       release.append(document.createTextNode(game.release));
-      const button=document.createElement("button");
-      button.className="button card-action";
-      button.type="button";
-      button.textContent=game.id===activeGameId?"Selected":"Enter game";
-      button.setAttribute("aria-label","Switch to "+game.title);
-      button.addEventListener("click",()=>switchGame(game.id));
-      article.append(meta,title,description,release,button);
+      if(document.querySelector("#game-stage")){
+        const button=document.createElement("button");
+        button.className="button card-action";
+        button.type="button";
+        button.textContent=game.id===activeGameId?"Selected":"Enter game";
+        button.setAttribute("aria-label","Switch to "+game.title);
+        button.addEventListener("click",()=>switchGame(game.id));
+        article.append(meta,title,description,release,button);
+      }else{
+        article.append(meta,title,description,release);
+      }
       container.append(article);
     });
   });
