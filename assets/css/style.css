@@ -21,3 +21,5 @@
 @keyframes bear-float{0%,100%{transform:translateY(0) rotate(7deg)}50%{transform:translateY(-9px) rotate(3deg)}}
 @media(max-width:620px){.monokuma-deco{right:0;top:23%;transform:scale(.75) rotate(7deg);transform-origin:top right;opacity:.88}.bear-label{font-size:7px}}
 @media(prefers-reduced-motion:reduce){.monokuma-deco{animation:none}.character-image img{transition:none}}
+
+.character-image img{position:relative;z-index:1}.character-image:after{z-index:2}
