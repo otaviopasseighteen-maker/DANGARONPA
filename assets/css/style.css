@@ -7,3 +7,5 @@
 .character-art{height:260px;position:relative;display:flex;align-items:flex-end;justify-content:flex-start;background-color:#22222b;background-size:cover;background-position:center 18%;border-radius:10px 10px 0 0;overflow:hidden;margin:-1px -1px 14px}
 .character-art-placeholder{position:absolute;left:12px;bottom:10px;font-size:1.25rem;font-weight:900;color:#fff;text-shadow:0 2px 8px #000,0 0 3px #000;background:rgba(15,15,20,.62);border:1px solid rgba(255,255,255,.22);border-radius:8px;padding:4px 9px}
 .character-card{overflow:hidden;padding-top:0}.character-role{color:var(--muted);font-size:.92rem}.character-art[style*="Special:FilePath"]{background-repeat:no-repeat}
+
+.execution-video{width:100%;max-width:900px;margin:20px 0 28px;}.execution-video iframe{display:block;width:100%;aspect-ratio:16/9;height:auto;border:1px solid var(--border);border-radius:12px;background:#08080b}.execution-video .spoiler-note{font-size:.85rem}
