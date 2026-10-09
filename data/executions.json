@@ -1,0 +1,93 @@
+[
+  {
+    "id": "thh",
+    "title": "Trigger Happy Havoc",
+    "description": "The first game's execution sequences establish the series' theatrical, exaggerated punishment style.",
+    "entries": [
+      {
+        "name": "The 1st execution",
+        "character": "Leon Kuwata",
+        "context": "Punishment following the first class trial.",
+        "videoUrl": "",
+        "videoNote": "Vídeo ainda não adicionado: confirmar uma fonte de vídeo apropriada antes de incorporar."
+      },
+      {
+        "name": "The 2nd execution",
+        "character": "Mondo Owada",
+        "context": "A punishment tied to the second class trial.",
+        "videoUrl": "",
+        "videoNote": "Vídeo ainda não adicionado: confirmar uma fonte de vídeo apropriada antes de incorporar."
+      },
+      {
+        "name": "Later executions",
+        "character": "Spoilers",
+        "context": "Additional punishments appear throughout the game and are intentionally summarized here to avoid revealing every case.",
+        "videoUrl": "",
+        "videoNote": "Lista detalhada e vídeos serão adicionados após a revisão dos spoilers."
+      }
+    ]
+  },
+  {
+    "id": "gd",
+    "title": "Goodbye Despair",
+    "description": "The second game continues the series' surreal and theatrical punishment sequences.",
+    "entries": [
+      {
+        "name": "The 1st execution",
+        "character": "Teruteru Hanamura",
+        "context": "Punishment after the first class trial.",
+        "videoUrl": "",
+        "videoNote": "Vídeo ainda não adicionado: confirmar uma fonte de vídeo apropriada antes de incorporar."
+      },
+      {
+        "name": "The 2nd execution",
+        "character": "Peko Pekoyama",
+        "context": "Punishment associated with the second case.",
+        "videoUrl": "",
+        "videoNote": "Vídeo ainda não adicionado: confirmar uma fonte de vídeo apropriada antes de incorporar."
+      },
+      {
+        "name": "Later executions",
+        "character": "Spoilers",
+        "context": "The remaining punishments are part of the game's later cases and revelations.",
+        "videoUrl": "",
+        "videoNote": "Lista detalhada e vídeos serão adicionados após a revisão dos spoilers."
+      }
+    ]
+  },
+  {
+    "id": "udg",
+    "title": "Ultra Despair Girls",
+    "description": "Ultra Despair Girls is an action-adventure spin-off, so its punishment and death scenes differ from the mainline class-trial execution format.",
+    "entries": [
+      {
+        "name": "Punishments and deaths",
+        "character": "Story-related characters",
+        "context": "This game does not follow the same recurring class-trial execution structure as the mainline titles. This section will catalogue its relevant scenes without mislabeling them as standard executions.",
+        "videoUrl": "",
+        "videoNote": "Vídeos ainda não adicionados; primeiro vamos separar corretamente cenas de morte, punições e eventos de história."
+      }
+    ]
+  },
+  {
+    "id": "v3",
+    "title": "Killing Harmony",
+    "description": "V3 uses elaborate execution sequences and places major story reveals around them. Spoilers are marked deliberately.",
+    "entries": [
+      {
+        "name": "Early execution",
+        "character": "Spoilers",
+        "context": "An early punishment establishes the tone of the new killing game.",
+        "videoUrl": "",
+        "videoNote": "Vídeo ainda não adicionado: confirmar uma fonte de vídeo apropriada antes de incorporar."
+      },
+      {
+        "name": "Later executions",
+        "character": "Spoilers",
+        "context": "Further punishments are connected to later class trials and contain major spoilers.",
+        "videoUrl": "",
+        "videoNote": "Lista detalhada e vídeos serão adicionados após a revisão dos spoilers."
+      }
+    ]
+  }
+]
