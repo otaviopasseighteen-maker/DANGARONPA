@@ -2,182 +2,138 @@
   {
     "id": "thh",
     "title": "Trigger Happy Havoc",
-    "description": "Catálogo das execuções e punições da história principal. Spoilers completos; o vídeo de referência é uma compilação externa.",
+    "description": "Registros narrativos de execuções e punições. Conteúdo com spoilers; nomes e contextos podem revelar acontecimentos importantes.",
     "entries": [
       {
         "name": "Spears of Gungnir",
         "character": "Mukuro Ikusaba",
-        "context": "Punição usada para encobrir a identidade da pessoa apresentada como Junko.",
-        "videoUrl": "https://www.youtube.com/watch?v=zb6GDU5fU3M",
-        "videoNote": "Abrir compilação externa de execuções de Trigger Happy Havoc (contém spoilers)."
+        "context": "Punição usada para encobrir a identidade da pessoa apresentada como Junko."
       },
       {
         "name": "The 1,000 Blows",
         "character": "Leon Kuwata",
-        "context": "Execução após o primeiro julgamento de classe.",
-        "videoUrl": "https://www.youtube.com/watch?v=zb6GDU5fU3M",
-        "videoNote": "Abrir compilação externa de execuções de Trigger Happy Havoc (contém spoilers)."
+        "context": "Execução após o primeiro julgamento de classe."
       },
       {
         "name": "The Cage of Death",
         "character": "Mondo Owada",
-        "context": "Punição após o segundo julgamento.",
-        "videoUrl": "https://www.youtube.com/watch?v=zb6GDU5fU3M",
-        "videoNote": "Abrir compilação externa de execuções de Trigger Happy Havoc (contém spoilers)."
+        "context": "Punição após o segundo julgamento."
       },
       {
         "name": "The Burning of the Versailles Witch",
         "character": "Celestia Ludenberg",
-        "context": "Punição após um julgamento posterior.",
-        "videoUrl": "https://www.youtube.com/watch?v=zb6GDU5fU3M",
-        "videoNote": "Abrir compilação externa de execuções de Trigger Happy Havoc (contém spoilers)."
+        "context": "Punição após um julgamento posterior."
       },
       {
         "name": "Excavator Destroyer",
         "character": "Alter Ego",
-        "context": "Programa de inteligência artificial é destruído por Monokuma.",
-        "videoUrl": "https://www.youtube.com/watch?v=zb6GDU5fU3M",
-        "videoNote": "Abrir compilação externa de execuções de Trigger Happy Havoc (contém spoilers)."
+        "context": "Programa de inteligência artificial é destruído por Monokuma."
       },
       {
         "name": "After School Lesson",
         "character": "Makoto Naegi / Junko Enoshima",
-        "context": "Execução final apresentada no desfecho; a sequência e o resultado envolvem uma reviravolta narrativa.",
-        "videoUrl": "https://www.youtube.com/watch?v=zb6GDU5fU3M",
-        "videoNote": "Abrir compilação externa de execuções de Trigger Happy Havoc (contém spoilers)."
+        "context": "Execução final apresentada no desfecho; a sequência e o resultado envolvem uma reviravolta narrativa."
       }
     ]
   },
   {
     "id": "gd",
     "title": "Goodbye Despair",
-    "description": "Execuções e punições da Killing School Trip. O vídeo externo reúne cenas de morte e execuções; conteúdo com spoilers.",
+    "description": "Registros narrativos de execuções e punições. Conteúdo com spoilers; nomes e contextos podem revelar acontecimentos importantes.",
     "entries": [
       {
         "name": "Deep-Fried Teruteru",
         "character": "Teruteru Hanamura",
-        "context": "Punição após o primeiro julgamento.",
-        "videoUrl": "https://www.youtube.com/watch?v=f6cvA2AnTW4",
-        "videoNote": "Abrir compilação externa de mortes e execuções de Goodbye Despair (contém spoilers)."
+        "context": "Punição após o primeiro julgamento."
       },
       {
         "name": "One Woman Army",
         "character": "Peko Pekoyama",
-        "context": "Punição após o segundo julgamento; a cena tem contexto narrativo específico.",
-        "videoUrl": "https://www.youtube.com/watch?v=f6cvA2AnTW4",
-        "videoNote": "Abrir compilação externa de mortes e execuções de Goodbye Despair (contém spoilers)."
+        "context": "Punição após o segundo julgamento; a cena tem contexto narrativo específico."
       },
       {
         "name": "The Ultimate Punishment",
         "character": "Mikan Tsumiki",
-        "context": "Execução associada ao terceiro julgamento.",
-        "videoUrl": "https://www.youtube.com/watch?v=f6cvA2AnTW4",
-        "videoNote": "Abrir compilação externa de mortes e execuções de Goodbye Despair (contém spoilers)."
+        "context": "Execução associada ao terceiro julgamento."
       },
       {
         "name": "Please Insert Coin",
         "character": "Ibuki Mioda e Hiyoko Saionji",
-        "context": "As mortes deste capítulo são reveladas na investigação; não são duas execuções tradicionais.",
-        "videoUrl": "https://www.youtube.com/watch?v=f6cvA2AnTW4",
-        "videoNote": "Abrir compilação externa de mortes e execuções de Goodbye Despair (contém spoilers)."
+        "context": "As mortes deste capítulo são reveladas na investigação; não são duas execuções tradicionais."
       },
       {
         "name": "The Final Dead Room / Russian Roulette",
         "character": "Nekomaru Nidai (contexto de sobrevivência)",
-        "context": "Desafio mortal ligado à investigação e à sobrevivência; não é uma execução padrão.",
-        "videoUrl": "https://www.youtube.com/watch?v=f6cvA2AnTW4",
-        "videoNote": "Abrir compilação externa de mortes e execuções de Goodbye Despair (contém spoilers)."
+        "context": "Desafio mortal ligado à investigação e à sobrevivência; não é uma execução padrão."
       },
       {
         "name": "House of the Demon",
         "character": "Gundham Tanaka",
-        "context": "Punição após o quarto julgamento.",
-        "videoUrl": "https://www.youtube.com/watch?v=f6cvA2AnTW4",
-        "videoNote": "Abrir compilação externa de mortes e execuções de Goodbye Despair (contém spoilers)."
+        "context": "Punição após o quarto julgamento."
       },
       {
         "name": "Graduation / Hope and Despair",
         "character": "Chiaki Nanami (versão da história)",
-        "context": "Sequência de punição relacionada à revelação final; o contexto é diferente do jogo da ilha.",
-        "videoUrl": "https://www.youtube.com/watch?v=f6cvA2AnTW4",
-        "videoNote": "Abrir compilação externa de mortes e execuções de Goodbye Despair (contém spoilers)."
+        "context": "Sequência de punição relacionada à revelação final; o contexto é diferente do jogo da ilha."
       }
     ]
   },
   {
     "id": "udg",
     "title": "Ultra Despair Girls",
-    "description": "O spin-off não usa o mesmo formato de julgamento e execução dos jogos principais. Esta seção cataloga cenas de morte, punições e sequências semelhantes, sem chamar todas de execuções oficiais.",
+    "description": "Ultra Despair Girls não usa o sistema tradicional de julgamentos e execuções. Esta pasta registra eventos e confrontos relevantes, sem tratar todos como execuções oficiais.",
     "entries": [
       {
         "name": "Monaca's punishment sequence",
         "character": "Monaca Towa",
-        "context": "Sequência de confronto e punição no arco dos Warriors of Hope.",
-        "videoUrl": "https://www.youtube.com/watch?v=mG6x7CBWLC4",
-        "videoNote": "Abrir compilação externa da série com cenas de Ultra Despair Girls; nem todas são execuções tradicionais."
+        "context": "Sequência de confronto e punição no arco dos Warriors of Hope."
       },
       {
         "name": "Warriors of Hope — confrontos finais",
         "character": "Masaru Daimon, Jataro Kemuri, Kotoko Utsugi e Nagisa Shingetsu",
-        "context": "Confrontos com os líderes infantis; as cenas não correspondem ao sistema de execução dos julgamentos principais.",
-        "videoUrl": "https://www.youtube.com/watch?v=mG6x7CBWLC4",
-        "videoNote": "Abrir compilação externa da série com cenas de Ultra Despair Girls; nem todas são execuções tradicionais."
+        "context": "Confrontos com os líderes infantis; as cenas não correspondem ao sistema de execução dos julgamentos principais."
       },
       {
         "name": "Towa City — deaths and reveals",
         "character": "Personagens ligados à resistência e à cidade",
-        "context": "Cenas de morte e revelações importantes da trama, reunidas em compilação externa.",
-        "videoUrl": "https://www.youtube.com/watch?v=mG6x7CBWLC4",
-        "videoNote": "Abrir compilação externa da série com cenas de Ultra Despair Girls; nem todas são execuções tradicionais."
+        "context": "Cenas de morte e revelações importantes da trama, reunidas em compilação externa."
       }
     ]
   },
   {
     "id": "v3",
     "title": "Killing Harmony",
-    "description": "Catálogo de execuções da Killing School Semester. Spoilers completos; o vídeo de referência cobre a série e pode incluir jogos anteriores.",
+    "description": "Registros narrativos de execuções e punições. Conteúdo com spoilers; nomes e contextos podem revelar acontecimentos importantes.",
     "entries": [
       {
         "name": "Der Flohwalzer",
         "character": "Kaede Akamatsu",
-        "context": "Execução após o primeiro julgamento.",
-        "videoUrl": "https://www.youtube.com/watch?v=1CaZ2YNrWnw",
-        "videoNote": "Abrir compilação externa de execuções da série (contém spoilers)."
+        "context": "Execução após o primeiro julgamento."
       },
       {
         "name": "Strand of Agony",
         "character": "Kirumi Tojo",
-        "context": "Execução após o segundo julgamento.",
-        "videoUrl": "https://www.youtube.com/watch?v=1CaZ2YNrWnw",
-        "videoNote": "Abrir compilação externa de execuções da série (contém spoilers)."
+        "context": "Execução após o segundo julgamento."
       },
       {
         "name": "Cultural Melting Pot",
         "character": "Korekiyo Shinguji",
-        "context": "Execução após o terceiro julgamento.",
-        "videoUrl": "https://www.youtube.com/watch?v=1CaZ2YNrWnw",
-        "videoNote": "Abrir compilação externa de execuções da série (contém spoilers)."
+        "context": "Execução após o terceiro julgamento."
       },
       {
         "name": "Wild West Insecticide",
         "character": "Gonta Gokuhara",
-        "context": "Execução após o quarto julgamento.",
-        "videoUrl": "https://www.youtube.com/watch?v=1CaZ2YNrWnw",
-        "videoNote": "Abrir compilação externa de execuções da série (contém spoilers)."
+        "context": "Execução após o quarto julgamento."
       },
       {
         "name": "Blast Off! Second Ignition",
         "character": "Kaito Momota",
-        "context": "Execução final interrompida pelos acontecimentos da história.",
-        "videoUrl": "https://www.youtube.com/watch?v=1CaZ2YNrWnw",
-        "videoNote": "Abrir compilação externa de execuções da série (contém spoilers)."
+        "context": "Execução final interrompida pelos acontecimentos da história."
       },
       {
         "name": "Ultimate Annihilation",
         "character": "Tsumugi Shirogane, Monokuma e K1-B0",
-        "context": "Sequência final que destrói a academia e conclui o conflito.",
-        "videoUrl": "https://www.youtube.com/watch?v=1CaZ2YNrWnw",
-        "videoNote": "Abrir compilação externa de execuções da série (contém spoilers)."
+        "context": "Sequência final que destrói a academia e conclui o conflito."
       }
     ]
   }
