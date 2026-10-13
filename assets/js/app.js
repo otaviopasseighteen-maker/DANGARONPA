@@ -8,8 +8,7 @@ const gameLabel=id=>short[id]||String(id||"").toUpperCase();
 const getGame=id=>games.find(g=>g.id===id),charsFor=id=>characters.filter(c=>c.gameId===id),storyFor=id=>stories.find(s=>s.id===id),executionFor=id=>executions.find(e=>e.id===id);
 async function loadData(){try{const data=await Promise.all(["games.json","characters.json","story.json","executions.json"].map(async f=>{const r=await fetch("data/"+f);if(!r.ok)throw Error("Não foi possível carregar data/"+f);return r.json()}));[games,characters,stories,executions]=data;render();loadPortraits()}catch(e){console.error(e);app.innerHTML='<div class="page-wrap"><div class="error-box"><div class="eyebrow">ERRO DE SISTEMA</div><h1>ARQUIVO CORROMPIDO</h1><p>Não consegui ler os arquivos de dados. Abra pelo GitHub Pages ou use um servidor local; o navegador pode bloquear JSON se o HTML for aberto diretamente.</p><p class="mono">'+esc(e.message)+'</p><button class="btn btn-primary" onclick="location.reload()">TENTAR NOVAMENTE ↻</button></div></div>'}}
 async function loadPortraits(){
-  // Remove os endereços antigos presumidos: eles falhavam e escondiam o problema.
-  characters.forEach(c=>{c.imageUrl="";});
+  // Mantém os retratos já cadastrados como fallback caso a API da Wiki falhe.
   const unique=[...new Set(characters.map(c=>c.name).filter(Boolean))];
   const found=new Map();
   for(let start=0;start<unique.length;start+=40){
