@@ -894,10 +894,10 @@
     "game": "Goodbye Despair",
     "talent": "Professora / mascote",
     "role": "Criatura relevante",
-    "description": "Mascote que inicialmente acompanha os estudantes na excursão pela Ilha Jabberwock.",
-    "story": "Sua função muda quando Monokuma toma o controle da situação.",
+    "description": "Coelhinha que se apresenta como professora e tenta manter a viagem escolar sob controle.",
+    "story": "Entra em conflito com Monokuma e tenta proteger os estudantes durante os acontecimentos na ilha.",
     "spoilerLevel": "Medium",
-    "imageUrl": ""
+    "imageUrl": "https://danganronpa.fandom.com/wiki/Special:FilePath/Usami_Illustration.png"
   },
   {
     "id": "gd-izuru-kamukura-101",
@@ -994,18 +994,6 @@
     "story": "Participa da investigação dos mistérios da Ilha Jabberwock e ajuda o grupo com seus conhecimentos técnicos.",
     "spoilerLevel": "Low",
     "imageUrl": "https://danganronpa.fandom.com/wiki/Special:FilePath/Kazuichi_Soda_Illustration.png"
-  },
-  {
-    "id": "gd-monimi-usami-108",
-    "name": "Monomi (Usami)",
-    "gameId": "gd",
-    "game": "Goodbye Despair",
-    "talent": "Mascote / professora",
-    "role": "Criatura relevante",
-    "description": "Coelhinha mágica que se apresenta como professora e tenta manter a viagem escolar sob controle.",
-    "story": "Entra em conflito com Monokuma e tenta proteger os estudantes durante os acontecimentos na ilha.",
-    "spoilerLevel": "Low",
-    "imageUrl": "https://danganronpa.fandom.com/wiki/Special:FilePath/Usami_Illustration.png"
   },
   {
     "id": "v3-monokubs-collective-109",
